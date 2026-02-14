@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "へんしん!",
+  "base_artist": "莉犬",
+  "createdAt": "2026-02-14T05:16:07.146091Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "へんしん!",
+      "artist": "莉犬",
+      "has_synced": false,
+      "path": "select/pl_01_へんしん!_莉犬.txt"
+    }
+  ]
+}
